@@ -1,1 +1,1 @@
-# ScanServices-Vulns
+Este script utiliza o Nmap para realizar uma varredura de todas as portas abertas na rede, identifica os serviços e suas respectivas versões, e em seguida realiza uma varredura de vulnerabilidades em cada um desses serviços. Os resultados são salvos em arquivos separados para facilitar a leitura e análise posterior.
